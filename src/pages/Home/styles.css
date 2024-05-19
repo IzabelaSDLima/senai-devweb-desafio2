@@ -1,0 +1,22 @@
+.button-home button {
+    display: block;
+    cursor: pointer;
+    width: 25%;
+    padding: 20px;
+    border: none;
+    border-radius: 3px;
+    background-color: green;
+    color: #fff;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    opacity: 80%;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
